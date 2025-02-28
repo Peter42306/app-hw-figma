@@ -17,6 +17,11 @@ function App() {
         >
           Learn React & Figma
         </a>
+        <a
+          className="vika-petya"
+        >
+          ВИКА + ПЕТЯ = &#10084;
+        </a>
       </header>
     </div>
   );
